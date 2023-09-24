@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMP609 Assessment 2 LMS GUI App", "COMP609 Assessment 2 LMS GUI App.csproj", "{0D167397-4F21-4EC6-84AE-59E8DFAE2F0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D167397-4F21-4EC6-84AE-59E8DFAE2F0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D167397-4F21-4EC6-84AE-59E8DFAE2F0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D167397-4F21-4EC6-84AE-59E8DFAE2F0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D167397-4F21-4EC6-84AE-59E8DFAE2F0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DA3B54A-BE04-46CF-8473-672EF46B2DB8}
+	EndGlobalSection
+EndGlobal

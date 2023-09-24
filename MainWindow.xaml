@@ -1,0 +1,414 @@
+﻿<Window x:Class="COMP609_Assessment_2_LMS_GUI_App.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="COMP609 Assessment 2 LMS GUI App"
+        Height="905"
+        Width="750"
+        ResizeMode="NoResize"
+        WindowStyle="None">
+    <StackPanel>
+        <materialDesign:PopupBox HorizontalAlignment="Right"
+                                 Margin="0,20,20,0"
+                                 PlacementMode="BottomAndAlignRightEdges"
+                                 StaysOpen="False"
+                                 Height="25">
+            <StackPanel>
+                <Button x:Name="btn_exit"
+                        ToolTip="Close Application"
+                        Content="Exit Application"
+                        Click="exitApp"/>
+            </StackPanel>
+        </materialDesign:PopupBox>
+        <StackPanel Orientation="Vertical">
+            <TextBlock Text="Livestock Management System by Hamish Getty"
+                       FontSize="24"
+                       FontWeight="Bold"
+                       HorizontalAlignment="Center" />
+        </StackPanel>
+        <TabControl>
+            <TabItem Header="Livestock Management">
+                <Grid>
+                    <StackPanel Background="CornflowerBlue"
+                                Margin="10"/>
+                    <StackPanel Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}"
+                                Margin="20">
+                        <Grid x:Name="gridLivestock">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="*"/>
+                            </Grid.RowDefinitions>
+                            <ComboBox Margin="0,0,10,0"
+                                      x:Name="txtLivestockID"
+                                      HorizontalAlignment="Left"
+                                      Width="350"
+                                      FontSize="24"
+                                      materialDesign:HintAssist.Hint="Select or Enter ID"
+                                      BorderThickness="2"
+                                      IsEditable="True"
+                                      GotFocus="ComboBox_GotFocus"
+                                      BorderBrush="{DynamicResource MaterialDesignDivider}"
+                                      Style="{StaticResource MaterialDesignOutlinedComboBox}"
+                                      SelectionChanged="txtLivestockID_SelectionChanged"/>
+                            <ComboBox Margin="0,0,10,0"
+                                      x:Name="txtLivestockType"
+                                      HorizontalAlignment="Left"
+                                      Width="350"
+                                      Grid.Row="1"
+                                      FontSize="24"
+                                      materialDesign:HintAssist.Hint="Select Type"
+                                      BorderThickness="2"
+                                      GotFocus="ComboBox_GotFocus"
+                                      BorderBrush="{DynamicResource MaterialDesignDivider}"
+                                      Style="{StaticResource MaterialDesignOutlinedComboBox}">
+                                <ComboBoxItem Content="Cow"/>
+                                <ComboBoxItem Content="Goat"/>
+                                <ComboBoxItem Content="Sheep"/>
+                            </ComboBox>
+                            <TextBox Margin="0,0,10,0"
+                                     x:Name="txtLivestockWater"
+                                     HorizontalAlignment="Left"
+                                     Width="350"
+                                     Grid.Row="2"
+                                     FontSize="24"
+                                     GotFocus="TextBox_GotFocus"
+                                     materialDesign:HintAssist.Hint="Enter Water"
+                                     BorderThickness="2"
+                                     BorderBrush="{DynamicResource MaterialDesignDivider}"
+                                     Style="{StaticResource MaterialDesignOutlinedTextBox}"/>
+                            <TextBox Margin="0,0,10,0"
+                                     x:Name="txtLivestockCost"
+                                     HorizontalAlignment="Left"
+                                     Width="350"
+                                     Grid.Row="3"
+                                     FontSize="24"
+                                     GotFocus="TextBox_GotFocus"
+                                     materialDesign:HintAssist.Hint="Enter Cost"
+                                     BorderThickness="2"
+                                     BorderBrush="{DynamicResource MaterialDesignDivider}"
+                                     Style="{StaticResource MaterialDesignOutlinedTextBox}"/>
+                            <TextBox Margin="0,0,10,0"
+                                     x:Name="txtLivestockWeight"
+                                     HorizontalAlignment="Left"
+                                     Width="350"
+                                     Grid.Row="4"
+                                     FontSize="24"
+                                     GotFocus="TextBox_GotFocus"
+                                     materialDesign:HintAssist.Hint="Enter Weight"
+                                     BorderThickness="2"
+                                     BorderBrush="{DynamicResource MaterialDesignDivider}"
+                                     Style="{StaticResource MaterialDesignOutlinedTextBox}"/>
+                            <ComboBox Margin="0,0,10,0"
+                                      x:Name="txtLivestockColour"
+                                      HorizontalAlignment="Left"
+                                      Width="350"
+                                      Grid.Row="5"
+                                      FontSize="24"
+                                      materialDesign:HintAssist.Hint="Select or Enter Colour"
+                                      BorderThickness="2"
+                                      IsEditable="True"
+                                      GotFocus="ComboBox_GotFocus"
+                                      BorderBrush="{DynamicResource MaterialDesignDivider}"
+                                      Style="{StaticResource MaterialDesignOutlinedComboBox}"/>
+                            <TextBox Margin="0,0,10,0"
+                                     x:Name="txtLivestockMilkWool"
+                                     HorizontalAlignment="Left"
+                                     Width="350"
+                                     Grid.Row="6"
+                                     FontSize="24"
+                                     GotFocus="TextBox_GotFocus"
+                                     materialDesign:HintAssist.Hint="Enter Milk/Wool"
+                                     BorderThickness="2"
+                                     BorderBrush="{DynamicResource MaterialDesignDivider}"
+                                     Style="{StaticResource MaterialDesignOutlinedTextBox}"/>
+                            <Button x:Name="btnLivestockInsert"
+                                    Margin="0,5,0,0"
+                                    Click="btnLivestockInsert_Click"
+                                    HorizontalAlignment="Center"
+                                    TextElement.Foreground="White"
+                                    Height="50"
+                                    Width="350"
+                                    Grid.Column="1"
+                                    materialDesign:ButtonAssist.CornerRadius="10"
+                                    FontSize="18"
+                                    Content="Insert"/>
+                            <Button x:Name="btnLivestockUpdate"
+                                    Margin="0,5,0,0"
+                                    Click="btnLivestockUpdate_Click"
+                                    HorizontalAlignment="Center"
+                                    TextElement.Foreground="White"
+                                    Height="50"
+                                    Width="350"
+                                    Grid.Column="1" Grid.Row="1"
+                                    materialDesign:ButtonAssist.CornerRadius="10"
+                                    FontSize="18"
+                                    Content="Update"/>
+                            <Button x:Name="btnLivestockDelete"
+                                    Margin="0,5,0,0"
+                                    Click="btnLivestockDelete_Click"
+                                    HorizontalAlignment="Center"
+                                    TextElement.Foreground="White"
+                                    Height="50"
+                                    Width="350"
+                                    Grid.Column="1" Grid.Row="2"
+                                    materialDesign:ButtonAssist.CornerRadius="10"
+                                    FontSize="18"
+                                    Content="Delete"/>
+                            <Button x:Name="btnLivestockClear"
+                                    Margin="0,5,0,0"
+                                    Click="btnLivestockClear_Click"
+                                    HorizontalAlignment="Center"
+                                    TextElement.Foreground="White"
+                                    Height="50"
+                                    Width="350"
+                                    Grid.Column="1" Grid.Row="3"
+                                    materialDesign:ButtonAssist.CornerRadius="10"
+                                    FontSize="18"
+                                    Content="Clear"/>
+                            <Button x:Name="btnLivestockRefresh"
+                                    Margin="0,5,0,0"
+                                    Click="btnLivestockRefresh_Click"
+                                    HorizontalAlignment="Center"
+                                    TextElement.Foreground="White"
+                                    Height="50"
+                                    Width="350"
+                                    Grid.Column="1" Grid.Row="4"
+                                    materialDesign:ButtonAssist.CornerRadius="10"
+                                    FontSize="18"
+                                    Content="Refresh"/>
+                            <Button x:Name="btnLivestockSearch"
+                                    Margin="0,5,0,0"
+                                    Click="btnLivestockSearch_Click"
+                                    HorizontalAlignment="Center"
+                                    TextElement.Foreground="White"
+                                    Height="50"
+                                    Width="350"
+                                    Grid.Column="1" Grid.Row="5"
+                                    materialDesign:ButtonAssist.CornerRadius="10"
+                                    FontSize="18"
+                                    Content="Search"/>
+                            <ComboBox Margin="0,0,10,0"
+                                      x:Name="txtLivestockSearch"
+                                      HorizontalAlignment="Left"
+                                      Width="350"
+                                      Grid.Column="1"
+                                      Grid.Row="6"
+                                      FontSize="24"
+                                      materialDesign:HintAssist.Hint="Select or Search by ID"
+                                      BorderThickness="2"
+                                      IsEditable="True"
+                                      GotFocus="ComboBox_GotFocus"
+                                      BorderBrush="{DynamicResource MaterialDesignDivider}"
+                                      Style="{StaticResource MaterialDesignOutlinedComboBox}"
+                                      SelectionChanged="txtLivestockID_SelectionChanged"/>
+                        </Grid>
+                        <DataGrid x:Name="dataGridLivestockView"
+                                  Height="250"
+                                  AutoGenerateColumns="True"
+                                  Margin="5,10,5,5"
+                                  Width="700"
+                                  BorderBrush="Black"
+                                  BorderThickness="1"
+                                  SelectionChanged="LivestockDataGrid_SelectionChanged"/>
+                    </StackPanel>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Commodity Management">
+                <Grid>
+                    <StackPanel Background="CornflowerBlue"
+                                Margin="10"/>
+                    <StackPanel Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}"
+                                Margin="20">
+                        <Grid x:Name="gridCommodity">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="*"/>
+                            </Grid.RowDefinitions>
+                            <TextBox Margin="0,0,10,0"
+                                     x:Name="txtCommodityLivestockWeightTax"
+                                     HorizontalAlignment="Left"
+                                     Width="350"
+                                     FontSize="24"
+                                     GotFocus="TextBox_GotFocus"
+                                     materialDesign:HintAssist.Hint="Enter Livestock Weight Tax"
+                                     BorderThickness="2"
+                                     BorderBrush="{DynamicResource MaterialDesignDivider}"
+                                     Style="{StaticResource MaterialDesignOutlinedTextBox}"/>
+                            <TextBox Margin="0,0,10,0"
+                                     x:Name="txtCommodityWaterPrice"
+                                     HorizontalAlignment="Left"
+                                     Width="350"
+                                     FontSize="24"
+                                     GotFocus="TextBox_GotFocus"
+                                     Grid.Row="1"
+                                     materialDesign:HintAssist.Hint="Enter Water Price"
+                                     BorderThickness="2"
+                                     BorderBrush="{DynamicResource MaterialDesignDivider}"
+                                     Style="{StaticResource MaterialDesignOutlinedTextBox}"/>
+                            <TextBox Margin="0,0,10,0"
+                                     x:Name="txtCommodityCowMilkPrice"
+                                     HorizontalAlignment="Left"
+                                     Width="350"
+                                     FontSize="24"
+                                     GotFocus="TextBox_GotFocus"
+                                     Grid.Row="2"
+                                     materialDesign:HintAssist.Hint="Enter Cow Milk Price"
+                                     BorderThickness="2"
+                                     BorderBrush="{DynamicResource MaterialDesignDivider}"
+                                     Style="{StaticResource MaterialDesignOutlinedTextBox}"/>
+                            <TextBox Margin="0,0,10,0"
+                                     x:Name="txtCommodityGoatMilkPrice"
+                                     HorizontalAlignment="Left"
+                                     Width="350"
+                                     FontSize="24"
+                                     GotFocus="TextBox_GotFocus"
+                                     Grid.Row="3"
+                                     materialDesign:HintAssist.Hint="Enter Goat Milk Price"
+                                     BorderThickness="2"
+                                     BorderBrush="{DynamicResource MaterialDesignDivider}"
+                                     Style="{StaticResource MaterialDesignOutlinedTextBox}"/>
+                            <TextBox Margin="0,0,10,0"
+                                     x:Name="txtCommoditySheepWoolPrice"
+                                     HorizontalAlignment="Left"
+                                     Width="350"
+                                     FontSize="24"
+                                     GotFocus="TextBox_GotFocus"
+                                     Grid.Row="4"
+                                     materialDesign:HintAssist.Hint="Enter Sheep Wool Price"
+                                     BorderThickness="2"
+                                     BorderBrush="{DynamicResource MaterialDesignDivider}"
+                                     Style="{StaticResource MaterialDesignOutlinedTextBox}"/>
+                            <Button x:Name="btnCommodityUpdate"
+                                    Margin="0,5,0,0"
+                                    Click="btnCommodityUpdate_Click"
+                                    HorizontalAlignment="Center"
+                                    TextElement.Foreground="White"
+                                    Height="50"
+                                    Width="350"
+                                    Grid.Column="1"
+                                    materialDesign:ButtonAssist.CornerRadius="10"
+                                    FontSize="18"
+                                    Content="Update"/>
+                            <Button x:Name="btnCommodityClear"
+                                    Margin="0,5,0,0"
+                                    Click="btnCommodityClear_Click"
+                                    HorizontalAlignment="Center"
+                                    TextElement.Foreground="White"
+                                    Height="50"
+                                    Width="350"
+                                    Grid.Column="1"
+                                    Grid.Row="1"
+                                    materialDesign:ButtonAssist.CornerRadius="10"
+                                    FontSize="18"
+                                    Content="Clear"/>
+                        </Grid>
+                        <DataGrid x:Name="dataGridCommodityView"
+                                  Height="250"
+                                  AutoGenerateColumns="True"
+                                  Margin="5,10,5,5"
+                                  Width="700"
+                                  BorderBrush="Black"
+                                  BorderThickness="1"
+                                  SelectionChanged="CommodityDataGrid_SelectionChanged"/>
+                    </StackPanel>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Statistics">
+                <Grid>
+                    <StackPanel Background="CornflowerBlue"
+                                Margin="10"/>
+                    <StackPanel Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}"
+                                Margin="20">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="*"/>
+                            </Grid.RowDefinitions>
+                            <ComboBox Margin="0,0,10,0"
+                                      x:Name="txtStatisticsColour"
+                                      HorizontalAlignment="Left"
+                                      Width="350"
+                                      FontSize="24"
+                                      materialDesign:HintAssist.Hint="Select or Enter Colour"
+                                      BorderThickness="2"
+                                      IsEditable="True"
+                                      GotFocus="ComboBox_GotFocus"
+                                      BorderBrush="{DynamicResource MaterialDesignDivider}"
+                                      Style="{StaticResource MaterialDesignOutlinedComboBox}"/>
+                            <ComboBox Margin="0,0,10,0"
+                                      x:Name="txtStatisticsType"
+                                      HorizontalAlignment="Left"
+                                      Width="350"
+                                      Grid.Row="1"
+                                      FontSize="24"
+                                      materialDesign:HintAssist.Hint="Select Type"
+                                      BorderThickness="2"
+                                      GotFocus="ComboBox_GotFocus"
+                                      BorderBrush="{DynamicResource MaterialDesignDivider}"
+                                      Style="{StaticResource MaterialDesignOutlinedComboBox}">
+                                <ComboBoxItem Content="Cow"/>
+                                <ComboBoxItem Content="Goat"/>
+                                <ComboBoxItem Content="Sheep"/>
+                            </ComboBox>
+                            <TextBox Margin="0,0,10,0"
+                                     x:Name="txtStatisticsWeight"
+                                     HorizontalAlignment="Left"
+                                     Width="350"
+                                     FontSize="24"
+                                     GotFocus="TextBox_GotFocus"
+                                     Grid.Row="2"
+                                     materialDesign:HintAssist.Hint="Enter Weight Threshold (>0)"
+                                     BorderThickness="2"
+                                     BorderBrush="{DynamicResource MaterialDesignDivider}"
+                                     Style="{StaticResource MaterialDesignOutlinedTextBox}"/>
+                            <CheckBox x:Name="checkboxStatisticsOperationReport"
+                                      Margin="15,10,10,10"
+                                      Content="Get operation report?"
+                                      FontSize="14"
+                                      Grid.Row="3">
+                            </CheckBox>
+                            <Button x:Name="btnStatisticsCalculate"
+                                    Margin="0,5,0,5"
+                                    Click="btnStatisticsCalculate_Click"
+                                    HorizontalAlignment="Center"
+                                    TextElement.Foreground="White"
+                                    Height="50"
+                                    Grid.Row="4"
+                                    Width="350"
+                                    materialDesign:ButtonAssist.CornerRadius="10"
+                                    FontSize="18"
+                                    Content="Calculate"/>
+                        </Grid>
+                    </StackPanel>
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </StackPanel>
+</Window>
