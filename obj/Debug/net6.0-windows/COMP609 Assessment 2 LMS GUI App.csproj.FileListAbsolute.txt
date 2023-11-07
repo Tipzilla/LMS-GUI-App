@@ -1,0 +1,258 @@
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.csproj.AssemblyReference.cache
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.exe
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.deps.json
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.runtimeconfig.json
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.dll
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.pdb
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App_MarkupCompile.cache
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App_MarkupCompile.lref
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\App.baml
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.g.resources
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.AssemblyInfoInputs.cache
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.AssemblyInfo.cs
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.csproj.CoreCompileInputs.cache
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.csproj.CopyComplete
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.dll
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\refint\COMP609 Assessment 2 LMS GUI App.dll
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.pdb
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.genruntimeconfig.cache
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\ref\COMP609 Assessment 2 LMS GUI App.dll
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.exe
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.deps.json
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.runtimeconfig.json
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.dll
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.pdb
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.csproj.AssemblyReference.cache
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\MainWindow.baml
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\MainWindow.g.cs
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\App.g.cs
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App_MarkupCompile.cache
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App_MarkupCompile.lref
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\App.baml
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.g.resources
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.GeneratedMSBuildEditorConfig.editorconfig
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.AssemblyInfoInputs.cache
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.AssemblyInfo.cs
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.csproj.CoreCompileInputs.cache
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.csproj.CopyComplete
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.dll
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\refint\COMP609 Assessment 2 LMS GUI App.dll
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.pdb
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.genruntimeconfig.cache
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\ref\COMP609 Assessment 2 LMS GUI App.dll
+D:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.exe
+D:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.deps.json
+D:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.runtimeconfig.json
+D:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.dll
+D:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.pdb
+D:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+D:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+D:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+D:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+D:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+D:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+D:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.csproj.AssemblyReference.cache
+D:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\MainWindow.baml
+D:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\App.g.cs
+D:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App_MarkupCompile.cache
+D:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App_MarkupCompile.lref
+D:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\App.baml
+D:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.g.resources
+D:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.GeneratedMSBuildEditorConfig.editorconfig
+D:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.AssemblyInfoInputs.cache
+D:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.AssemblyInfo.cs
+D:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.csproj.CoreCompileInputs.cache
+D:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.csproj.CopyComplete
+D:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.dll
+D:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\refint\COMP609 Assessment 2 LMS GUI App.dll
+D:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.pdb
+D:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.genruntimeconfig.cache
+D:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\ref\COMP609 Assessment 2 LMS GUI App.dll
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\images\exit.png
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\images\export.png
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\images\import.png
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\images\restore.png
+F:\COMP609 Application Development\Assessments\COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App_Content.g.cs
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.exe
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\images\exit.png
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\images\export.png
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\images\import.png
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\images\restore.png
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.deps.json
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.runtimeconfig.json
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.dll
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.pdb
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.csproj.AssemblyReference.cache
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App_Content.g.cs
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App_MarkupCompile.cache
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App_MarkupCompile.lref
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\App.baml
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.g.resources
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.AssemblyInfoInputs.cache
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.AssemblyInfo.cs
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.csproj.CoreCompileInputs.cache
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.csproj.CopyComplete
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.dll
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\refint\COMP609 Assessment 2 LMS GUI App.dll
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.pdb
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.genruntimeconfig.cache
+C:\Users\tipzi\Desktop\[v1.0] COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\ref\COMP609 Assessment 2 LMS GUI App.dll
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.exe
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\images\exit.png
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\images\export.png
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\images\import.png
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\images\restore.png
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.deps.json
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.runtimeconfig.json
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.dll
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.pdb
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.csproj.AssemblyReference.cache
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\MainWindow.baml
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\MainWindow.g.cs
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\App.g.cs
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App_Content.g.cs
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App_MarkupCompile.cache
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App_MarkupCompile.lref
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\App.baml
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.g.resources
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.GeneratedMSBuildEditorConfig.editorconfig
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.AssemblyInfoInputs.cache
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.AssemblyInfo.cs
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.csproj.CoreCompileInputs.cache
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.csproj.CopyComplete
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.dll
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\refint\COMP609 Assessment 2 LMS GUI App.dll
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.pdb
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.genruntimeconfig.cache
+F:\COMP609 Application Development\Assessments\[v1.0] COMP609 Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\ref\COMP609 Assessment 2 LMS GUI App.dll
+C:\Users\tipzi\Desktop\Coding\School Work\COMP609 Application Development\Assessments\Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.exe
+C:\Users\tipzi\Desktop\Coding\School Work\COMP609 Application Development\Assessments\Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\images\exit.png
+C:\Users\tipzi\Desktop\Coding\School Work\COMP609 Application Development\Assessments\Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.deps.json
+C:\Users\tipzi\Desktop\Coding\School Work\COMP609 Application Development\Assessments\Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.runtimeconfig.json
+C:\Users\tipzi\Desktop\Coding\School Work\COMP609 Application Development\Assessments\Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.dll
+C:\Users\tipzi\Desktop\Coding\School Work\COMP609 Application Development\Assessments\Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.pdb
+C:\Users\tipzi\Desktop\Coding\School Work\COMP609 Application Development\Assessments\Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\tipzi\Desktop\Coding\School Work\COMP609 Application Development\Assessments\Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\tipzi\Desktop\Coding\School Work\COMP609 Application Development\Assessments\Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\tipzi\Desktop\Coding\School Work\COMP609 Application Development\Assessments\Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\tipzi\Desktop\Coding\School Work\COMP609 Application Development\Assessments\Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\tipzi\Desktop\Coding\School Work\COMP609 Application Development\Assessments\Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\tipzi\Desktop\Coding\School Work\COMP609 Application Development\Assessments\Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\tipzi\Desktop\Coding\School Work\COMP609 Application Development\Assessments\Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\tipzi\Desktop\Coding\School Work\COMP609 Application Development\Assessments\Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tipzi\Desktop\Coding\School Work\COMP609 Application Development\Assessments\Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\tipzi\Desktop\Coding\School Work\COMP609 Application Development\Assessments\Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\tipzi\Desktop\Coding\School Work\COMP609 Application Development\Assessments\Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tipzi\Desktop\Coding\School Work\COMP609 Application Development\Assessments\Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\tipzi\Desktop\Coding\School Work\COMP609 Application Development\Assessments\Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\tipzi\Desktop\Coding\School Work\COMP609 Application Development\Assessments\Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\tipzi\Desktop\Coding\School Work\COMP609 Application Development\Assessments\Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tipzi\Desktop\Coding\School Work\COMP609 Application Development\Assessments\Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\tipzi\Desktop\Coding\School Work\COMP609 Application Development\Assessments\Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.csproj.AssemblyReference.cache
+C:\Users\tipzi\Desktop\Coding\School Work\COMP609 Application Development\Assessments\Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\tipzi\Desktop\Coding\School Work\COMP609 Application Development\Assessments\Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\tipzi\Desktop\Coding\School Work\COMP609 Application Development\Assessments\Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\tipzi\Desktop\Coding\School Work\COMP609 Application Development\Assessments\Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App_Content.g.cs
+C:\Users\tipzi\Desktop\Coding\School Work\COMP609 Application Development\Assessments\Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App_MarkupCompile.cache
+C:\Users\tipzi\Desktop\Coding\School Work\COMP609 Application Development\Assessments\Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App_MarkupCompile.lref
+C:\Users\tipzi\Desktop\Coding\School Work\COMP609 Application Development\Assessments\Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\App.baml
+C:\Users\tipzi\Desktop\Coding\School Work\COMP609 Application Development\Assessments\Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.g.resources
+C:\Users\tipzi\Desktop\Coding\School Work\COMP609 Application Development\Assessments\Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tipzi\Desktop\Coding\School Work\COMP609 Application Development\Assessments\Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.AssemblyInfoInputs.cache
+C:\Users\tipzi\Desktop\Coding\School Work\COMP609 Application Development\Assessments\Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.AssemblyInfo.cs
+C:\Users\tipzi\Desktop\Coding\School Work\COMP609 Application Development\Assessments\Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.csproj.CoreCompileInputs.cache
+C:\Users\tipzi\Desktop\Coding\School Work\COMP609 Application Development\Assessments\Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.csproj.CopyComplete
+C:\Users\tipzi\Desktop\Coding\School Work\COMP609 Application Development\Assessments\Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.dll
+C:\Users\tipzi\Desktop\Coding\School Work\COMP609 Application Development\Assessments\Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\refint\COMP609 Assessment 2 LMS GUI App.dll
+C:\Users\tipzi\Desktop\Coding\School Work\COMP609 Application Development\Assessments\Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.pdb
+C:\Users\tipzi\Desktop\Coding\School Work\COMP609 Application Development\Assessments\Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\COMP609 Assessment 2 LMS GUI App.genruntimeconfig.cache
+C:\Users\tipzi\Desktop\Coding\School Work\COMP609 Application Development\Assessments\Assessment 2 LMS GUI App\obj\Debug\net6.0-windows\ref\COMP609 Assessment 2 LMS GUI App.dll
+C:\Users\tipzi\Desktop\Coding\School Work\COMP609 Application Development\Assessments\Assessment 2 LMS GUI App\bin\Debug\net6.0-windows\images\logo.ico

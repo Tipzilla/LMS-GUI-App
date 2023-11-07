@@ -9,8 +9,28 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="images\exit.png" />
+    <None Remove="images\export.png" />
+    <None Remove="images\import.png" />
+    <None Remove="images\logo.ico" />
+    <None Remove="images\restore.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="images\exit.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="MaterialDesignThemes" Version="4.9.0" />
     <PackageReference Include="System.Data.OleDb" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="images\logo.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
 
 </Project>

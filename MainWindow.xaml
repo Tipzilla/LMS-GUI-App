@@ -5,11 +5,20 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
         mc:Ignorable="d"
-        Title="COMP609 Assessment 2 LMS GUI App"
+        Title="LMS GUI App"
         Height="905"
         Width="750"
         ResizeMode="NoResize"
         WindowStyle="None">
+    <Window.Style>
+        <Style TargetType="Window">
+            <EventSetter Event="MouseDown"
+                         Handler="Window_MouseDown"/>
+        </Style>
+    </Window.Style>
+    <Window.Icon>
+        <BitmapImage UriSource="/images/logo.ico"/>
+    </Window.Icon>
     <StackPanel>
         <materialDesign:PopupBox HorizontalAlignment="Right"
                                  Margin="0,20,20,0"
@@ -18,9 +27,14 @@
                                  Height="25">
             <StackPanel>
                 <Button x:Name="btn_exit"
-                        ToolTip="Close Application"
-                        Content="Exit Application"
-                        Click="exitApp"/>
+                        Click="exitApp">
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="/images/exit.png"
+                               Width="16" Height="16"
+                               Margin="0,0,5,0" />
+                        <TextBlock Text="Exit Application" />
+                    </StackPanel>
+                </Button>
             </StackPanel>
         </materialDesign:PopupBox>
         <StackPanel Orientation="Vertical">

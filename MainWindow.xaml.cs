@@ -3,9 +3,11 @@ using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Data.OleDb;
+using System.Linq;
 using System.Media;
 using System.Windows;
 using System.Windows.Controls;
+using System.Windows.Input;
 
 namespace COMP609_Assessment_2_LMS_GUI_App
 {
@@ -26,8 +28,14 @@ namespace COMP609_Assessment_2_LMS_GUI_App
         {
             List<string> dbIds = RetrieveIdsFromDatabase();
 
-            txtLivestockID.ItemsSource = dbIds;
-            txtLivestockSearch.ItemsSource = dbIds;
+            List<int> numericIds = dbIds.Select(int.Parse).ToList();
+
+            numericIds.Sort();
+
+            List<string> sortedDbIds = numericIds.Select(id => id.ToString()).ToList();
+
+            txtLivestockID.ItemsSource = sortedDbIds;
+            txtLivestockSearch.ItemsSource = sortedDbIds;
         }
         private List<string> RetrieveIdsFromDatabase()
         {
@@ -612,6 +620,8 @@ namespace COMP609_Assessment_2_LMS_GUI_App
 
                                 MessageBox.Show("Record Deleted Successfully", "LMS GUI Application", MessageBoxButton.OK, MessageBoxImage.Information);
                                 livestockdataviewer();
+                                PopulateComboBoxWithDbIds();
+                                PopulateComboBoxWithDbColours();
                                 txtLivestockID.Text = "";
                                 txtLivestockType.Text = "";
                                 txtLivestockWater.Text = "";
@@ -983,6 +993,8 @@ namespace COMP609_Assessment_2_LMS_GUI_App
             }
         }
         // Colour Query
+
+        // Checks whether the colour exists in the database file or not
         private static bool IsColourValid(string colour, OleDbConnection connection)
         {
             string colourCheckQuery = "SELECT COUNT(*) FROM (SELECT Colour FROM Cow UNION ALL " +
@@ -996,6 +1008,7 @@ namespace COMP609_Assessment_2_LMS_GUI_App
                 return colourCount > 0;
             }
         }
+        // Checks if an entered colour is a real colour
         bool IsEnteredColorValid(string input)
         {
             try
@@ -1412,7 +1425,7 @@ namespace COMP609_Assessment_2_LMS_GUI_App
                                           "FROM (SELECT Weight FROM Cow UNION ALL " +
                                           "      SELECT Weight FROM Goat UNION ALL " +
                                           "      SELECT Weight FROM Sheep) AS LivestockWeight " +
-                                          "WHERE Weight > ?";
+                                          "WHERE Weight >= ?";
                         cmd.Parameters.AddWithValue("@Weight", weightThreshold);
 
                         object avgWeightObj = cmd.ExecuteScalar();
@@ -1423,19 +1436,19 @@ namespace COMP609_Assessment_2_LMS_GUI_App
 
                             cmd.Parameters.Clear();
                             cmd.Parameters.AddWithValue("@Weight", weightThreshold);
-                            cmd.CommandText = $"SELECT SUM(Milk) FROM Cow WHERE Weight > ?";
+                            cmd.CommandText = $"SELECT SUM(Milk) FROM Cow WHERE Weight >= ?";
                             object cowMilkTotalObj = cmd.ExecuteScalar();
                             double cowMilkTotal = GetDoubleValue(cowMilkTotalObj);
 
                             cmd.Parameters.Clear();
                             cmd.Parameters.AddWithValue("@Weight", weightThreshold);
-                            cmd.CommandText = $"SELECT SUM(Milk) FROM Goat WHERE Weight > ?";
+                            cmd.CommandText = $"SELECT SUM(Milk) FROM Goat WHERE Weight >= ?";
                             object goatMilkTotalObj = cmd.ExecuteScalar();
                             double goatMilkTotal = GetDoubleValue(goatMilkTotalObj);
 
                             cmd.Parameters.Clear();
                             cmd.Parameters.AddWithValue("@Weight", weightThreshold);
-                            cmd.CommandText = $"SELECT SUM(Wool) FROM Sheep WHERE Weight > ?";
+                            cmd.CommandText = $"SELECT SUM(Wool) FROM Sheep WHERE Weight >= ?";
                             object sheepWoolTotalObj = cmd.ExecuteScalar();
                             double sheepWoolTotal = GetDoubleValue(sheepWoolTotalObj);
 
@@ -1676,6 +1689,14 @@ namespace COMP609_Assessment_2_LMS_GUI_App
                 txtStatisticsWeight.Foreground = System.Windows.Media.Brushes.Black;
             }
             checkboxStatisticsOperationReport.IsChecked = false;
+        }
+        // Other
+        private void Window_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            if (e.ChangedButton == MouseButton.Left)
+            {
+                DragMove();
+            }
         }
     }
 }
